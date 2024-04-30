@@ -1,0 +1,12 @@
+.blog-container{
+    width: 2000px;
+    height: 2000px;
+    position: relative;
+  
+  }
+  .header-image {
+    margin-left: -230px;
+  }
+  .main2-img{
+    width:1920px;
+  }
